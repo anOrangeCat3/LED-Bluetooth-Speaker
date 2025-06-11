@@ -10,7 +10,7 @@ The amplifier circuit design referred to some cases on internet. Final version w
 <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/2978df95-a5eb-4b64-87e2-ccd2e62d4524" />
 </div>
 
-And Simulated and drawed a Bode plot in Multisim, observed the frequency response characteristics, and ensured that it doesn't self-oscillate.
+And Simulated and drawed a Bode plot in Multisim, observed the frequency response characteristics, and ensured that it doesn't self-oscillate. 
 
 <div align=center>
 <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/223a2672-e0a8-4f23-997a-120086fa9c7e" />
